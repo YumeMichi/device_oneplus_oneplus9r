@@ -1,4 +1,4 @@
-# Copyright (C) 2020 Paranoid Android
+# Copyright (C) 2021 Paranoid Android
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -19,6 +19,3 @@ TARGET_OTA_ASSERT_DEVICE := OnePlus8T,oneplus8t
 
 # Partitions
 BOARD_SUPER_PARTITION_SIZE := 7516192768
-
-# Properties
-TARGET_SYSTEM_PROP := device/oneplus/oneplus8/system.prop
