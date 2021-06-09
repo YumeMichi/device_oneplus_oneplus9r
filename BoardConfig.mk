@@ -15,7 +15,7 @@
 include device/oneplus/oneplus8/BoardConfig.mk
 
 # OTA
-TARGET_OTA_ASSERT_DEVICE := OnePlus8T,oneplus8t
+TARGET_OTA_ASSERT_DEVICE := OnePlus9R,oneplus9r
 
 # Partitions
 BOARD_SUPER_PARTITION_SIZE := 7516192768
