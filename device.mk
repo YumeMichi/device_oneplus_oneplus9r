@@ -12,16 +12,16 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-$(call inherit-product, vendor/oneplus/oneplus8t/oneplus8t-vendor.mk)
+$(call inherit-product, vendor/oneplus/oneplus9r/oneplus9r-vendor.mk)
 $(call inherit-product, device/oneplus/oneplus8/device.mk)
 
 # Namespaces
 PRODUCT_SOONG_NAMESPACES += \
-    device/oneplus/oneplus8t
+    device/oneplus/oneplus9r
 
 # Overlays
 PRODUCT_PACKAGES += \
-    OnePlus8TFrameworks
+    OnePlus9RFrameworks
 
 # Shipping API
 PRODUCT_SHIPPING_API_LEVEL := 30

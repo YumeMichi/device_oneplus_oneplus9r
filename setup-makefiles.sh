@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=oneplus8t
+DEVICE=oneplus9r
 VENDOR=oneplus
 
 # Load extract utilities and do some sanity checks.
