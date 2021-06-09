@@ -14,12 +14,12 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="android.oneplus8t">
+    package="android.oneplus9r">
 
     <overlay
         android:isStatic="true"
         android:priority="850"
         android:requiredSystemPropertyName="ro.boot.prj_version"
-        android:requiredSystemPropertyValue="14"
+        android:requiredSystemPropertyValue="15"
         android:targetPackage="android" />
 </manifest>
