@@ -21,7 +21,8 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Overlays
 PRODUCT_PACKAGES += \
-    OnePlus9RFrameworks
+    OnePlus9RFrameworks \
+    OnePlus9RSystemUI
 
 # Shipping API
 PRODUCT_SHIPPING_API_LEVEL := 30
