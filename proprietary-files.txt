@@ -227,7 +227,7 @@ vendor/lib64/libyuv2.so
 vendor/lib64/sensors.hal.tof.so
 vendor/lib64/vendor.oneplus.hardware.camera@1.0.so
 vendor/lib64/vendor.oneplus.hardware.CameraMDMHIDL@1.0.so
-vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so
+vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so|905ab710d5546506c79af5ecc168bc0f47d7ad17
 
 # Camera firmware
 vendor/firmware/CAMERA_ICP.elf
